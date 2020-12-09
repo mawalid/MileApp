@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TestCase_MileApp</description>
+   <name>MileApp_TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf42056d-7968-42b9-8883-1a398d979b87</testCaseGuid>
+</TestCaseEntity>
